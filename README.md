@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div>
-![Snake animation](https://github.com/rafaballerini/P728/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/P728/blob/output/github-contribution-grid-snake.svg)
 </div>

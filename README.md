@@ -1,5 +1,4 @@
-## <font color="white">Brô, let's code</font> 🚀 
-<br>
+## Brô, let's code 🚀 
 
 <div align="center">
   <a href="https://github.com/P728">

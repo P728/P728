@@ -1,6 +1,5 @@
-<div style="display: inline_block"><br>
 ## <font color="white">Brô, let's code</font> 🚀 
-</div>
+<br>
 
 <div align="center">
   <a href="https://github.com/P728">

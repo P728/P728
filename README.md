@@ -1,4 +1,7 @@
+<div style="display: inline_block"><br>
 ## <font color="white">Brô, let's code</font> 🚀 
+</div>
+
 <div align="center">
   <a href="https://github.com/P728">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=P728&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

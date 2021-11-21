@@ -1,5 +1,8 @@
 ## Brô, let's code 🚀 
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-345eda?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-santos-3a27921a3/)](https://www.linkedin.com/in/pedro-santos-3a27921a3/)
+[![Behance Badge](https://img.shields.io/badge/-Behance-royalblue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/pedroaugusto6)](https://www.behance.net/pedroaugusto6)
+
 <div align="center">
   <a href="https://github.com/P728">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=P728&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,12 +17,8 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 </div>
   
-<div>
-  <button type="button"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></button>
-</div>
-  
   ##
- 
+  
 <div> 
   
   ![Snake animation](https://github.com/P728/P728/blob/output/github-contribution-grid-snake.svg)

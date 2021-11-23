@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Brô, let's code 🚀</h1>
 </div>
 

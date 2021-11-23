@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/P728">
-  <img src="https://github.com/P728/P728/blob/main/images/stat.svg" alt="Alternative Text"/>    
+  <img src="https://github.com/P728/P728/blob/master/images/stat.svg" alt="P728 WakaTime Activity"/>    
     <br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=P728&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>

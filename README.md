@@ -1,4 +1,6 @@
-## Brô, let's code 🚀
+<div align="center">
+  <h1>Brô, let's code 🚀</h1>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-santos-3a27921a3/" title="">

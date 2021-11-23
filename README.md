@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/P728">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P728&langs_count=2&show_icons=true&theme=dracula&locale=pt-br&"/>
-  <img height="164em" src="https://github-readme-stats.vercel.app/api?username=P728&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P728&langs_count=2&show_icons=true&theme=dracula&locale=en"/>
+  <img height="164em" src="https://github-readme-stats.vercel.app/api?username=P728&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>

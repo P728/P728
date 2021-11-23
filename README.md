@@ -4,9 +4,9 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-santos-3a27921a3/" title="">
-  <img align="center" src="https://icongr.am/devicon/linkedin-original-wordmark.svg?size=100&color=0000ff" alt=""></a>
+  <img align="center" height="56" width="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarcas.net%2Fwp-content%2Fuploads%2F2020%2F04%2FLinkedin-Logo.png&f=1&nofb=1" alt=""></a>
   <a href="https://www.behance.net/pedroaugusto6" title="">
-  <img align="center" src="https://icongr.am/devicon/behance-plain-wordmark.svg?size=100&color=ffffff" alt=""></a>
+  <img align="center" height="94" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original-wordmark.svg" alt=""></a>
 </div>
 
 <div align="center">

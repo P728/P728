@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Brô, let's code 🚀</h1>
+  <h1>Bro, let's code 🚀</h1>
 </div>
 
 <div align="center">
